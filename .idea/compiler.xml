@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="proxypattern" />
+        <module name="visitor" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="proxypattern" target="1.5" />
+      <module name="visitor" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
